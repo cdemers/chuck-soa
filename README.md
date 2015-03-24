@@ -1,4 +1,4 @@
-# chunkymonky-soa
+# ChunkyMonky SOA Modelling Language
 
 A derived SOA modelling language. This repository includes a couple of PDF cheetsheets and a stencil for OmniGraffle.
 

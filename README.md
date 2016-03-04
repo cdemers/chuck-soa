@@ -1,6 +1,6 @@
-# ChunkyMonky SOA Modelling Language
+# Chuck SOA Modelling Language
 
-A derived SOA modelling language. This repository includes a couple of PDF cheetsheets and a stencil for OmniGraffle.
+An SOA specific modelling language derived from previous generations of modelling languages like UML. This repository includes a couple of PDF cheetsheets and a stencil for OmniGraffle.
 
 ---
 

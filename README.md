@@ -2,6 +2,8 @@
 
 An SOA specific modelling language derived from previous generations of modelling languages like UML. This repository includes a couple of PDF cheetsheets and a stencil for [OmniGraffle](https://www.omnigroup.com/omnigraffle).
 
+It is also available on the [OmniGraffle _StencilTown_](https://stenciltown.omnigroup.com/stencils/chuck-soa-modelling-elements/) stencil repository.
+
 ---
 
 ### International License
